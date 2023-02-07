@@ -1,5 +1,5 @@
 # gps
-CSVのキー情報からGoogleのAPIを使って住所の位置情報を一括で取得するプログラムです。[Mac](https://github.com/tkedjp/gps/raw/main/gps_app_mac.zip)版と[Windows](https://github.com/tkedjp/gps/raw/main/gps_app_win.zip)版があります。
+CSVのキー情報からGoogleのAPIを使って住所の位置情報を一括で取得するプログラムです。Mac版と[Windows](https://github.com/tkedjp/gps/raw/main/gps_app_win.zip)版があります。
 
 [CSVファイル](https://github.com/tkedjp/gps/blob/main/list.csv)は実行ファイルと同じディレクトリに保存してください。
 位置情報の取得にはGoogleのAPIが必要になります。起動後の画面で入力してください。
